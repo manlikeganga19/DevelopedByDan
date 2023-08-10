@@ -29,6 +29,12 @@ module.exports = {
         white: "#fff",
         pink: "pink",
       },
+      background: {
+        hero: 'url("/src/assets/hero-bg.jpg")',
+      },
+      dropshadow: {
+        primary: '0px 4px 10px rgba(15, 27, 51, 0.05);',
+      },
     },
   },
   plugins: [],
