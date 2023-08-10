@@ -19,7 +19,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#23262F",
-        accent: "#286F6C",
+        accent: "#808080",
         grey: {
           DEFAULT: "#919297",
           1: "#D9D9D9",

@@ -43,6 +43,10 @@ export const stats = [
     value: "2",
     text: "projects contributed in",
   },
+  {
+    value: '2',
+    text: 'projects contributed in'
+  }
 ];
 
 export const projects = {
