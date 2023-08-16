@@ -1,5 +1,5 @@
 import React from "react";
-import { hero } from "../Data";
+import { hero } from "./Data";
 import Stats from "../components/stats";
 
 const Hero = () => {

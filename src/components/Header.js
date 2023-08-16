@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Logo from "../assets/Logo.jpg";
 import { CgMenuRight, CgClose } from "react-icons/cg";
-import { navigation } from "../Data";
+import { navigation } from "./Data";
 import NavMobile from "./NavMobile";
 
 const Header = () => {
