@@ -1,17 +1,15 @@
 import React from "react";
-import Header from './Header';
-import Home from './Home';
-import Project from './pages/Project';
-import Footer from './Footer';
+import Header from './components/Header';
+import Home from './components/Home';
+import Project from './components/Project';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
       <Header />
-     
       <Home />
       <Project />
-      
       <Footer/>
     </div>
   );

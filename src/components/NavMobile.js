@@ -1,5 +1,5 @@
 import React from "react";
-import { navigation } from "./Data";
+import { navigation } from "../Data";
 
 const NavMobile = () => {
   return (
